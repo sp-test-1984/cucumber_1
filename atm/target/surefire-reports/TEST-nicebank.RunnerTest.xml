@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="nicebank.RunnerTest" time="0.021" errors="0" skipped="3">
+<testsuite tests="5" failures="0" name="nicebank.RunnerTest" time="0.024" errors="0" skipped="3">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="10.0.2+13"/>
@@ -66,14 +66,14 @@
     <property name="sun.cpu.isalist" value=""/>
   </properties>
   <testcase classname="Scenario: Successful withdrawal from an account in credit" name="Given I have deposited $100.00 in my account" time="0.002"/>
-  <testcase classname="Scenario: Successful withdrawal from an account in credit" name="When I request $20" time="0.004">
+  <testcase classname="Scenario: Successful withdrawal from an account in credit" name="When I request $20" time="0.005">
     <skipped/>
   </testcase>
   <testcase classname="Scenario: Successful withdrawal from an account in credit" name="Then $20 should be dispensed" time="0.005">
     <skipped/>
   </testcase>
-  <testcase classname="Scenario: Successful withdrawal from an account in credit" name="Scenario: Successful withdrawal from an account in credit" time="0.005">
+  <testcase classname="Scenario: Successful withdrawal from an account in credit" name="Scenario: Successful withdrawal from an account in credit" time="0.006">
     <skipped/>
   </testcase>
-  <testcase classname="Scenario: Successful withdrawal from an account in credit" name="Scenario: Successful withdrawal from an account in credit" time="0.005"/>
+  <testcase classname="Scenario: Successful withdrawal from an account in credit" name="Scenario: Successful withdrawal from an account in credit" time="0.006"/>
 </testsuite>
